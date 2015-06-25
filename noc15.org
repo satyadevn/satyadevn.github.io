@@ -1,0 +1,12 @@
+#+TITLE: NOC 15 Blog
+#+OPTIONS: toc:nil
+
+* June 25, 2015
+
+
+Preparation. Will upload the first homework tomorrow. The NPTEL
+website seems a bit slower, at least when accessing from inside the
+IITK campus.
+
+------
+
