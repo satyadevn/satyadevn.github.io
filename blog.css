@@ -4,6 +4,5 @@ body{
     width:40%;
 }
 h1, h2{
-    text-style: smallcaps;
-    font-size: smaller;
+    font-variant:small-caps;
 }
