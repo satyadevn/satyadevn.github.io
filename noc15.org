@@ -1,5 +1,6 @@
 #+TITLE: NOC 15 Blog
 #+OPTIONS: toc:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="blog.css"/>
 
 * June 26, 2015
 Testing github repository blogs.
