@@ -1,6 +1,8 @@
 #+TITLE: NOC 15 Blog
 #+OPTIONS: toc:nil
 
+* June 26, 2015
+Testing github repository blogs.
 * June 25, 2015
 
 
