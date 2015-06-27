@@ -10,8 +10,8 @@
     body{
 	position:absolute;
 	left:20px;
-	width:8px;
 	font-family:Verdana;
+	font-color:red;
     }
 }
     
