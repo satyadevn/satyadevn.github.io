@@ -18,4 +18,6 @@
 h1, h2{
     font-variant:small-caps;
     text-decoration:underline;
+    background:orange;
+    border:1px inset;
 }

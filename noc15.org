@@ -1,6 +1,7 @@
 #+TITLE: NOC 15 Blog
-#+OPTIONS: toc:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="blog.css"/>
+#+STYLE: <link rel="stylesheet" type="text/css" href="blog.css"/>
+#+OPTIONS: toc:nil email:nil f:t inline:t
+
 
 * June 27, 2015
 * June 26, 2015
